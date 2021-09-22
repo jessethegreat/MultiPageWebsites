@@ -1,0 +1,35 @@
+*{
+    margin:0;
+}
+
+html{
+    height: 150%;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 125px;
+    padding-left: 8px;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: blue;
+    padding: 20px 18px;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+p {
+    text-align: center;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
